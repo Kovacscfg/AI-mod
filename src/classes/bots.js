@@ -115,10 +115,7 @@ function generateBot(bot, role, sessionID) {
 
 	// chance to spawn simulated PMC AIs
 	if ((type === "test") && global._database.gameplayConfig.bots.pmc.enabled) {
-		let spawnChance = utility.getRandomInt(0, 99);
 		let sideChance = utility.getRandomInt(0, 99);
-
-		if (spawnChance < global._database.gameplayConfig.bots.pmc.spawnChance) {
 			if (sideChance < global._database.gameplayConfig.bots.pmc.usecChance) {
 				bot.Info.Side = "Usec";
 				type = "usec";
@@ -129,7 +126,7 @@ function generateBot(bot, role, sessionID) {
 
 			bot.Info.Level = utility.getRandomInt(1, 70);
 		}
-	}
+	
 
 	// we don't want player scav to be generated as PMC
 	if (role === "playerScav") {
