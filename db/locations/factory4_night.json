@@ -35,8 +35,8 @@
                 "slots_max": 2,
                 "SpawnPoints": "BotZone",
                 "BotSide": "Savage",
-                "BotPreset": "normal",
-                "WildSpawnType": "marksman",
+                "BotPreset": "hard",
+                "WildSpawnType": "followergluharscout",
                 "isPlayers": true
             },
             {
@@ -47,8 +47,8 @@
                 "slots_max": 2,
                 "SpawnPoints": "BotZone",
                 "BotSide": "Savage",
-                "BotPreset": "normal",
-                "WildSpawnType": "followergluharassault",
+                "BotPreset": "hard",
+                "WildSpawnType": "followergluharsecurity",
                 "isPlayers": false
             },
             {
@@ -59,7 +59,7 @@
                 "slots_max": 3,
                 "SpawnPoints": "BotZone",
                 "BotSide": "Savage",
-                "BotPreset": "normal",
+                "BotPreset": "hard",
                 "WildSpawnType": "followergluharsecurity",
                 "isPlayers": true
             },
@@ -71,8 +71,8 @@
                 "slots_max": 2,
                 "SpawnPoints": "BotZone",
                 "BotSide": "Savage",
-                "BotPreset": "hard",
-                "WildSpawnType": "marksman",
+                "BotPreset": "normal",
+                "WildSpawnType": "followergluharassault",
                 "isPlayers": true
             },
             {
@@ -95,8 +95,8 @@
                 "slots_max": 3,
                 "SpawnPoints": "BotZone",
                 "BotSide": "Savage",
-                "BotPreset": "hard",
-                "WildSpawnType": "followergluharassault",
+                "BotPreset": "normal",
+                "WildSpawnType": "followergluharscout",
                 "isPlayers": true
             },
             {
@@ -120,7 +120,7 @@
                 "SpawnPoints": "BotZone",
                 "BotSide": "Savage",
                 "BotPreset": "hard",
-                "WildSpawnType": "marksman",
+                "WildSpawnType": "followergluharscout",
                 "isPlayers": false
             }
         ],
