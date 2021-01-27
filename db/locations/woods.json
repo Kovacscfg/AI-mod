@@ -36,7 +36,7 @@
                 "SpawnPoints": "ZoneWoodCutter",
                 "BotSide": "Savage",
                 "BotPreset": "normal",
-                "WildSpawnType": "followergluharsecurity",
+                "WildSpawnType": "followergluharassault",
                 "isPlayers": false,
                 "OpenZones": ""
             },
@@ -49,7 +49,7 @@
                 "SpawnPoints": "ZoneHouse",
                 "BotSide": "Savage",
                 "BotPreset": "hard",
-                "WildSpawnType": "marksman",
+                "WildSpawnType": "followergluharscout",
                 "isPlayers": false,
                 "OpenZones": ""
             },
@@ -87,8 +87,8 @@
                 "slots_max": 3,
                 "SpawnPoints": "ZoneWoodCutter",
                 "BotSide": "Savage",
-                "BotPreset": "hard",
-                "WildSpawnType": "followergluharsecurity",
+                "BotPreset": "normal",
+                "WildSpawnType": "followergluharassault",
                 "isPlayers": false,
                 "OpenZones": ""
             },
@@ -100,7 +100,7 @@
                 "slots_max": 4,
                 "SpawnPoints": "ZoneHouse",
                 "BotSide": "Savage",
-                "BotPreset": "hard",
+                "BotPreset": "normal",
                 "WildSpawnType": "followergluharscout",
                 "isPlayers": false,
                 "OpenZones": ""
@@ -113,8 +113,8 @@
                 "slots_max": 4,
                 "SpawnPoints": "ZoneWoodCutter",
                 "BotSide": "Savage",
-                "BotPreset": "hard",
-                "WildSpawnType": "followergluharsecurity",
+                "BotPreset": "normal",
+                "WildSpawnType": "followergluharscout",
                 "isPlayers": false,
                 "OpenZones": ""
             },
@@ -126,8 +126,8 @@
                 "slots_max": 3,
                 "SpawnPoints": "ZoneBigRocks",
                 "BotSide": "Savage",
-                "BotPreset": "normal",
-                "WildSpawnType": "followergluharscout",
+                "BotPreset": "hard",
+                "WildSpawnType": "followergluharsecurity",
                 "isPlayers": false,
                 "OpenZones": ""
             },
@@ -139,8 +139,8 @@
                 "slots_max": 4,
                 "SpawnPoints": "ZoneRoad",
                 "BotSide": "Savage",
-                "BotPreset": "easy",
-                "WildSpawnType": "marksman",
+                "BotPreset": "hard",
+                "WildSpawnType": "followergluharsecurity",
                 "isPlayers": false,
                 "OpenZones": ""
             },
@@ -153,7 +153,7 @@
                 "SpawnPoints": "ZoneHighRocks",
                 "BotSide": "Savage",
                 "BotPreset": "normal",
-                "WildSpawnType": "assault",
+                "WildSpawnType": "marksman",
                 "isPlayers": false,
                 "OpenZones": ""
             },
@@ -165,8 +165,8 @@
                 "slots_max": 4,
                 "SpawnPoints": "ZoneMiniHouse",
                 "BotSide": "Savage",
-                "BotPreset": "hard",
-                "WildSpawnType": "marksman",
+                "BotPreset": "normal",
+                "WildSpawnType": "followergluharscout",
                 "isPlayers": false,
                 "OpenZones": ""
             },
@@ -179,7 +179,7 @@
                 "SpawnPoints": "ZoneBigRocks",
                 "BotSide": "Savage",
                 "BotPreset": "hard",
-                "WildSpawnType": "followergluharscout",
+                "WildSpawnType": "followergluharsecurity",
                 "isPlayers": false,
                 "OpenZones": ""
             },
@@ -192,7 +192,7 @@
                 "SpawnPoints": "ZoneRoad",
                 "BotSide": "Savage",
                 "BotPreset": "hard",
-                "WildSpawnType": "followergluharscout",
+                "WildSpawnType": "followergluharsecurity",
                 "isPlayers": true,
                 "OpenZones": ""
             },
@@ -204,8 +204,8 @@
                 "slots_max": 3,
                 "SpawnPoints": "",
                 "BotSide": "Savage",
-                "BotPreset": "easy",
-                "WildSpawnType": "marksman",
+                "BotPreset": "hard",
+                "WildSpawnType": "followergluharassault",
                 "isPlayers": false,
                 "OpenZones": ""
             },
@@ -217,8 +217,8 @@
                 "slots_max": 5,
                 "SpawnPoints": "",
                 "BotSide": "Savage",
-                "BotPreset": "normal",
-                "WildSpawnType": "followergluharassault",
+                "BotPreset": "hard",
+                "WildSpawnType": "followergluharscout",
                 "isPlayers": true,
                 "OpenZones": ""
             },
@@ -230,8 +230,8 @@
                 "slots_max": 5,
                 "SpawnPoints": "",
                 "BotSide": "Savage",
-                "BotPreset": "hard",
-                "WildSpawnType": "followergluharassault",
+                "BotPreset": "normal",
+                "WildSpawnType": "followergluharscout",
                 "isPlayers": true,
                 "OpenZones": ""
             },
@@ -243,8 +243,8 @@
                 "slots_max": 5,
                 "SpawnPoints": "",
                 "BotSide": "Savage",
-                "BotPreset": "easy",
-                "WildSpawnType": "followergluharsecurity",
+                "BotPreset": "normal",
+                "WildSpawnType": "followergluharassault",
                 "isPlayers": true,
                 "OpenZones": ""
             },
@@ -256,8 +256,8 @@
                 "slots_max": 4,
                 "SpawnPoints": "",
                 "BotSide": "Savage",
-                "BotPreset": "normal",
-                "WildSpawnType": "marksman",
+                "BotPreset": "hard",
+                "WildSpawnType": "followergluharassault",
                 "isPlayers": true,
                 "OpenZones": ""
             },
@@ -270,7 +270,7 @@
                 "SpawnPoints": "",
                 "BotSide": "Savage",
                 "BotPreset": "hard",
-                "WildSpawnType": "followergluharsecurity",
+                "WildSpawnType": "followergluharscout",
                 "isPlayers": true,
                 "OpenZones": ""
             },
@@ -283,7 +283,7 @@
                 "SpawnPoints": "",
                 "BotSide": "Savage",
                 "BotPreset": "normal",
-                "WildSpawnType": "followergluharassault",
+                "WildSpawnType": "followergluharscout",
                 "isPlayers": false,
                 "OpenZones": ""
             },
@@ -295,8 +295,8 @@
                 "slots_max": 4,
                 "SpawnPoints": "",
                 "BotSide": "Savage",
-                "BotPreset": "normal",
-                "WildSpawnType": "marksman",
+                "BotPreset": "hard",
+                "WildSpawnType": "followergluharsecurity",
                 "isPlayers": false,
                 "OpenZones": ""
             }
