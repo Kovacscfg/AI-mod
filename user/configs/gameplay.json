@@ -25,6 +25,7 @@
 			"enabled": true,
 			"spawnChance": 100,
 			"usecChance": 50
+
 		},
 		"limits": {
 			"assault": 50,

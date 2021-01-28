@@ -30,7 +30,7 @@
             {
                 "number": 0,
                 "time_min": 15,
-                "time_max": 1000,
+                "time_max": 35,
                 "slots_min": 1,
                 "slots_max": 2,
                 "SpawnPoints": "BotZone",
@@ -102,7 +102,7 @@
             {
                 "number": 6,
                 "time_min": 350,
-                "time_max": 1500,
+                "time_max": 500,
                 "slots_min": 1,
                 "slots_max": 2,
                 "SpawnPoints": "BotZone",
@@ -114,13 +114,49 @@
             {
                 "number": 7,
                 "time_min": 350,
-                "time_max": 1700,
+                "time_max": 400,
                 "slots_min": 0,
                 "slots_max": 3,
                 "SpawnPoints": "BotZone",
                 "BotSide": "Savage",
                 "BotPreset": "hard",
                 "WildSpawnType": "followergluharscout",
+                "isPlayers": false
+            },
+            {
+                "number": 8,
+                "time_min": -1,
+                "time_max": -1,
+                "slots_min": 1,
+                "slots_max": 3,
+                "SpawnPoints": "",
+                "BotSide": "Savage",
+                "BotPreset": "normal",
+                "WildSpawnType": "followerbully",
+                "isPlayers": true
+            },
+            {
+                "number": 9,
+                "time_min": 15,
+                "time_max": 30,
+                "slots_min": 1,
+                "slots_max": 2,
+                "SpawnPoints": "",
+                "BotSide": "Savage",
+                "BotPreset": "normal",
+                "WildSpawnType": "followerbully",
+                "isPlayers": true
+            },
+            {
+                "number": 10,
+                "time_min": 40,
+                "time_max": 100,
+                "slots_min": 1,
+                "slots_max": 4,
+                "SpawnPoints": "",
+                "BotSide": "Savage",
+                "BotPreset": "hard",
+                "WildSpawnType": "followerbully",
                 "isPlayers": false
             }
         ],

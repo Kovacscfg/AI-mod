@@ -110,11 +110,11 @@ function generateHealth(selectedHealth){
 }
 
 function generateBot(bot, role, sessionID) {
-	let type = (role === "cursedAssault") ? "assault" : role;
-	let node = {};
+	let type = (role === "followerBully") ? "followerbully" : role;
+    let node = {};
 
 	// chance to spawn simulated PMC AIs
-	if ((type === "followergluharassault" || type === "followergluharscout" || type === "followergluharsecurity") && global._database.gameplayConfig.bots.pmc.enabled) {
+	if ((type === "followerbully") && global._database.gameplayConfig.bots.pmc.enabled) {
 		let spawnChance = utility.getRandomInt(0, 99);
 		let sideChance = utility.getRandomInt(0, 99);
 
@@ -130,7 +130,7 @@ function generateBot(bot, role, sessionID) {
 			bot.Info.Level = utility.getRandomInt(1, 70);
 		}
 	}
-
+	
 	// we don't want player scav to be generated as PMC
 	if (role === "playerScav") {
 		type = "assault";
