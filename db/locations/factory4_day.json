@@ -133,7 +133,8 @@
                 "BotSide": "Savage",
                 "BotPreset": "normal",
                 "WildSpawnType": "followerbully",
-                "isPlayers": true
+                "isPlayers": true,
+                "OpenZones": "BotZone",
             },
             {
                 "number": 9,
@@ -145,7 +146,8 @@
                 "BotSide": "Savage",
                 "BotPreset": "normal",
                 "WildSpawnType": "followerbully",
-                "isPlayers": true
+                "isPlayers": true,
+                "OpenZones": "BotZone",
             },
             {
                 "number": 10,
@@ -157,7 +159,8 @@
                 "BotSide": "Savage",
                 "BotPreset": "hard",
                 "WildSpawnType": "followerbully",
-                "isPlayers": false
+                "isPlayers": false,
+                "OpenZones": "BotZone"
             }
         ],
         "limits": [],
