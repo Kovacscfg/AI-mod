@@ -134,7 +134,7 @@
                 "BotPreset": "normal",
                 "WildSpawnType": "followerbully",
                 "isPlayers": true,
-                "OpenZones": "BotZone",
+                "OpenZones": "BotZone"
             },
             {
                 "number": 9,
@@ -147,7 +147,7 @@
                 "BotPreset": "normal",
                 "WildSpawnType": "followerbully",
                 "isPlayers": true,
-                "OpenZones": "BotZone",
+                "OpenZones": "BotZone"
             },
             {
                 "number": 10,
